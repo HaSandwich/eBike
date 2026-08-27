@@ -25,11 +25,12 @@ all of this comes together to securely mount everything to the bike and run ever
 - Flipsky 75100 Pro V2.0 VESC
 ---
 
-## check out media.md and build_logs.md for images, videos, the build process, and any problems I ran into with how I solved them
+# frame clamp
 
+so this was one of the more annoying parts of the build because the bike was manufactured a bit off. 
 
+in progress...
 
-
-
+## make sure to look at build_logs.md for all the documentation
 
 :D
