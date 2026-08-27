@@ -26,3 +26,10 @@ all of this comes together to securely mount everything to the bike and run ever
 ---
 
 ## check out media.md and build_logs.md for images, videos, the build process, and any problems I ran into with how I solved them
+
+
+
+
+
+
+:D
